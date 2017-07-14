@@ -1,0 +1,4 @@
+The Linux Programming Interface: A Linux and UNIX System Prog;Michael Kerrisk;$123.01
+HTML5 and CSS3, Illustrated Complete (Illustrated Series);Jonathan Meersman Sasha Vodnik;$32.23
+Understanding the Linux Kernel;Daniel P. Bovet Marco Cesati;$45.88
+Getting Real;Jason Fried, Heinemeier David Hansson, Matthew Linderman;$87.99
